@@ -1,0 +1,44 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"5.483\"}","timestamp":"2024-09-24T05:05:11.350Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.408\"}","timestamp":"2024-09-24T05:05:16.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.118\"}","timestamp":"2024-09-24T05:05:18.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"1.417\"}","timestamp":"2024-09-24T05:05:48.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"2.104\"}","timestamp":"2024-09-24T05:06:32.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas/5\",\"status\":\"404\",\"responseTime\":\"1.216\"}","timestamp":"2024-09-24T05:06:46.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/1\",\"status\":\"200\",\"responseTime\":\"1.089\"}","timestamp":"2024-09-24T05:06:58.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.527\"}","timestamp":"2024-09-24T05:07:11.371Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"0.934\"}","timestamp":"2024-09-24T05:07:18.415Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"protocol\",\"price\":542.07}","timestamp":"2024-09-24T05:10:40.819Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"16.995\"}","timestamp":"2024-09-24T05:10:40.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"circuit\",\"price\":966}","timestamp":"2024-09-24T05:11:49.601Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"20.851\"}","timestamp":"2024-09-24T05:11:49.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"driver\",\"price\":840.2}","timestamp":"2024-09-24T05:11:52.021Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"21.114\"}","timestamp":"2024-09-24T05:11:52.042Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A GET request was made to /teas","timestamp":"2024-09-24T05:11:59.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"2.924\"}","timestamp":"2024-09-24T05:11:59.978Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A GET request was made to /teas/2","timestamp":"2024-09-24T05:12:13.716Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"6.368\"}","timestamp":"2024-09-24T05:12:13.720Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A PUT request was made to /teas/1 with the following body: {\"name\":\"Ginger + Tea\",\"price\":499}","timestamp":"2024-09-24T05:12:23.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/1\",\"status\":\"200\",\"responseTime\":\"3.098\"}","timestamp":"2024-09-24T05:12:23.989Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A DELETE request was made to /teas/2","timestamp":"2024-09-24T05:12:35.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"200\",\"responseTime\":\"4.121\"}","timestamp":"2024-09-24T05:12:35.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A DELETE request was made to /teas/2","timestamp":"2024-09-24T05:13:53.605Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Tea with ID 2 is not available","timestamp":"2024-09-24T05:13:53.614Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"404\",\"responseTime\":\"50.188\"}","timestamp":"2024-09-24T05:13:53.679Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"pixel\",\"price\":null}","timestamp":"2024-09-24T05:14:46.426Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"24.354\"}","timestamp":"2024-09-24T05:14:46.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"feed\",\"price\":null}","timestamp":"2024-09-24T05:16:04.306Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Tea name is feed","timestamp":"2024-09-24T05:16:04.319Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Tea price is not available","timestamp":"2024-09-24T05:16:04.320Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"58.598\"}","timestamp":"2024-09-24T05:16:04.383Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"\",\"price\":null}","timestamp":"2024-09-24T05:17:11.255Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Tea name is not available it must be empty string or null or undefined","timestamp":"2024-09-24T05:17:11.268Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"Tea price is not available it must be null or undefined","timestamp":"2024-09-24T05:17:11.269Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"52.717\"}","timestamp":"2024-09-24T05:17:11.332Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Tea name is Soap","timestamp":"2024-09-24T05:18:49.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Tea price is 643.95","timestamp":"2024-09-24T05:18:49.371Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"Soap\",\"price\":643.95}","timestamp":"2024-09-24T05:18:49.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"28.170\"}","timestamp":"2024-09-24T05:18:49.402Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Tea name is Computer","timestamp":"2024-09-24T05:19:08.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Tea price is 948.98","timestamp":"2024-09-24T05:19:08.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A POST request was made to /teas with the following body: {\"name\":\"Computer\",\"price\":948.98}","timestamp":"2024-09-24T05:19:08.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"7.161\"}","timestamp":"2024-09-24T05:19:08.888Z"}
