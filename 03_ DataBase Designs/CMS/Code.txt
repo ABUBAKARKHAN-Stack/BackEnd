@@ -1,0 +1,44 @@
+// Eraser IO Software Used LINK https://app.eraser.io/
+
+// Define the movies entity, storing basic details about each movie
+movies[icon: video] {
+  _id string pk               // Primary key to uniquely identify each movie
+  rating ObjectId reviews      // Foreign key linking to reviews related to the movie
+  createdAt Date              // Timestamp for when the movie entry was created
+  updatedAt Date              // Timestamp for when the movie entry was last updated
+}
+
+// Define the movie entity to capture additional movie-specific details
+movie {
+  _id string pk               // Primary key to uniquely identify each movie
+  category ObjectId           // Foreign key linking the movie to its category/genre
+  title string                // Title of the movie
+  description string          // Brief description of the movie
+  releaseYear Date            // The year the movie was released
+  reviews string              // Reviews text or summary for the movie
+  duration number             // Duration of the movie in minutes
+  watchNow boolean            // Indicator if the movie is available to watch now
+}
+
+// Define the categories entity to store movie categories/genres
+categories {
+  _id string pk               // Primary key to uniquely identify each category
+  category enum "Seasons", "Fiction", "Animated", "All"  // Predefined list of genres
+  createdAt Date              // Timestamp for when the category entry was created
+  updatedAt Date              // Timestamp for when the category entry was last updated
+}
+
+// Define the users entity to store user details and their subscription status
+users[icon: user] {
+  _id string pk               // Primary key to uniquely identify each user
+  name string                 // Full name of the user
+  email string                // Email address of the user
+  subsKEY string              // Subscription key that links to available movies for the user
+  isActive boolean            // Status indicating if the user's account is active
+}
+
+// Define the relationships between entities
+users.subsKEY - movie.watchNow         // The subscription key determines if the user can watch the movie
+movies.rating - movie.reviews          // Relationship between movie rating and its reviews
+categories._id < movie.category        // Many-to-one relationship: each movie belongs to one category
+users.isActive - movie.watchNow        // If the user is active, they can watch available movies

@@ -1,0 +1,59 @@
+// Eraser IO Software Used LINK https://app.eraser.io/
+
+// Define the books entity with its attributes and relationships to other collections
+books[icon: book-open] {
+  _id string pk               // Primary key to uniquely identify each book
+  title string                // Title of the book
+  description string          // Brief description of the book
+  genre ObjectId category      // Foreign key to relate the book to a genre/category
+  publishYear Date            // The year the book was published
+  author ObjectId author       // Foreign key linking the book to its author
+  createdAt Date              // Timestamp for when the book entry was created
+  updatedAt Date              // Timestamp for when the book entry was last updated
+}
+
+// Define the categories entity to store book categories/genres
+categories {
+  _id string pk               // Primary key to uniquely identify each category
+  category enum "history", "science", "future", "novels", "All"  // List of predefined genres
+  createdAt Date              // Timestamp for when the category entry was created
+  updatedAt Date              // Timestamp for when the category entry was last updated
+}
+
+// Define the authors entity to store author details
+authors {
+  _id string pk               // Primary key to uniquely identify each author
+  name string                 // Full name of the author
+  biography string            // Short biography of the author
+  createdAt Date              // Timestamp for when the author entry was created
+  updatedAt Date              // Timestamp for when the author entry was last updated
+}
+
+// Define the users entity to store user details
+users[icon: users] {
+  _id string pk               // Primary key to uniquely identify each user
+  name string                 // Full name of the user
+  email string                // Email address of the user
+  password string             // Encrypted password of the user
+  isActive boolean            // Status indicating if the user account is active
+  role enum "user", "admin"    // Defines the user role (either regular user or admin)
+  createdAt Date              // Timestamp for when the user entry was created
+  updatedAt Date              // Timestamp for when the user entry was last updated
+}
+
+// Define the reviews entity to store user reviews for books
+reviews {
+  _id string pk               // Primary key to uniquely identify each review
+  book ObjectId book          // Foreign key linking the review to a book
+  user ObjectId user          // Foreign key linking the review to a user
+  rating number               // Numerical rating given by the user (e.g., 1-5)
+  comment string              // User's written feedback on the book
+  createdAt Date              // Timestamp for when the review was created
+  updatedAt Date              // Timestamp for when the review was last updated
+}
+
+// Relationships between entities
+books.genre - categories._id   // One-to-many relationship: each book has a genre
+books.author <> authors._id    // Many-to-one relationship: each book has one author
+users._id  <> reviews._id      // Many-to-one relationship: each review is written by one user
+reviews.book <> books._id      // Many-to-one relationship: each review is for one specific book
