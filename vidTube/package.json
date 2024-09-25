@@ -1,0 +1,26 @@
+{
+  "name": "vidtube",
+  "version": "1.0.0",
+  "description": "a project inspired by Youtube",
+  "module": "src/index.js",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "mongoose",
+    "express"
+  ],
+  "author": "Abubakar Aijaz",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3"
+  }
+}
