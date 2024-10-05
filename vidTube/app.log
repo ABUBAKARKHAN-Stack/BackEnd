@@ -272,3 +272,11 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Healthcheck Passed","timestamp":"2024-09-28T15:36:02.580Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-09-28T15:36:20.448Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"5.249\"}","timestamp":"2024-09-28T15:36:30.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T11:42:41.143Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T11:45:51.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T13:44:58.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T15:18:47.142Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T15:19:22.166Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T15:19:45.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T15:19:56.150Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-05T15:20:41.514Z"}
