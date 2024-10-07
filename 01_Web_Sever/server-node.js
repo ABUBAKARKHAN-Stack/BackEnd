@@ -1,6 +1,5 @@
 // Importing the 'http' module to create a server in Node.js
 const http = require("http");
-
 // Defining the hostname and port on which the server will run
 const hostname = 'localhost';
 const port = 3000;
