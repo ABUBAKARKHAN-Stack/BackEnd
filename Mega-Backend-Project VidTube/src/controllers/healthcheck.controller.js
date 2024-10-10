@@ -1,4 +1,3 @@
-import logger from '../logger.js'
 import { ApiResponse, asyncHandler } from '../utils/index.js'
 
 // Health Check Controller

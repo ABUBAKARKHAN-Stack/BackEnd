@@ -39,11 +39,14 @@ app.use(
 );
 
 // import routes
-import {healthcheckRouter} from './routes/index.js'
+import { healthcheckRouter, userRouter } from './routes/index.js'
+import { errorHandler } from './middlewares/index.js'
 
 
 // Routes
 app.use('/api/v1/healthcheck', healthcheckRouter)
+app.use('/api/v1/users', userRouter)
 
 
+app.use(errorHandler)
 export default app
