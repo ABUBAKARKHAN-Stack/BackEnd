@@ -1,21 +1,24 @@
 import { Router } from "express";
-import { userRegistration } from "../controllers/index.js";
-import { upload } from '../middlewares/index.js'
+import { userRegistration, logoutUser } from "../controllers/index.js";
+import { upload, verifyJWT } from '../middlewares/index.js'
 
 const router = Router()
 
 router.route('/register').post(
     upload.fields([
         {
-            name: "avatar" , 
+            name: "avatar",
             maxCount: 1
         },
         {
-            name: "coverImage" , 
+            name: "coverImage",
             maxCount: 1
         },
     ]),
     userRegistration
 )
+
+// Secured Routes
+router.route('/logout').post(verifyJWT, logoutUser)
 
 export default router
