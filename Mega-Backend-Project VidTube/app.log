@@ -383,3 +383,5 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"5111.897\"}","timestamp":"2024-10-10T12:08:04.069Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-10T12:33:25.181Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4741.528\"}","timestamp":"2024-10-10T12:33:42.507Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-15T12:31:05.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-17T18:58:42.852Z"}
