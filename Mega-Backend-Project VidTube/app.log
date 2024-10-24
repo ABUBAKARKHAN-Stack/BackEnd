@@ -385,3 +385,266 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4741.528\"}","timestamp":"2024-10-10T12:33:42.507Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-15T12:31:05.812Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-17T18:58:42.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T21:49:13.993Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"173.092\"}","timestamp":"2024-10-23T21:50:41.592Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"31443.851\"}","timestamp":"2024-10-23T21:56:40.624Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"98.060\"}","timestamp":"2024-10-23T21:58:46.593Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"95.954\"}","timestamp":"2024-10-23T21:59:58.848Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"105.669\"}","timestamp":"2024-10-23T22:00:10.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"102.745\"}","timestamp":"2024-10-23T22:00:13.591Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"1.089\"}","timestamp":"2024-10-23T22:01:01.274Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"119.919\"}","timestamp":"2024-10-23T22:01:59.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"116.512\"}","timestamp":"2024-10-23T22:02:59.097Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:15:22.244Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:17:15.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:17:29.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:17:32.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:17:37.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:17:51.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"119.510\"}","timestamp":"2024-10-23T22:18:03.912Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:20:51.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:20:55.146Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:20:59.070Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"796.692\"}","timestamp":"2024-10-23T22:21:00.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/loginf\",\"status\":\"404\",\"responseTime\":\"10.051\"}","timestamp":"2024-10-23T22:22:12.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"106.332\"}","timestamp":"2024-10-23T22:22:29.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"401\",\"responseTime\":\"1.139\"}","timestamp":"2024-10-23T22:24:00.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"401\",\"responseTime\":\"0.991\"}","timestamp":"2024-10-23T22:25:49.280Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:26:12.883Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:26:15.858Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:26:24.862Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"401\",\"responseTime\":\"7.748\"}","timestamp":"2024-10-23T22:26:27.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:26:38.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"401\",\"responseTime\":\"7.563\"}","timestamp":"2024-10-23T22:26:39.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:27:02.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"401\",\"responseTime\":\"4.216\"}","timestamp":"2024-10-23T22:27:35.531Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"401\",\"responseTime\":\"1.444\"}","timestamp":"2024-10-23T22:27:46.980Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"119.589\"}","timestamp":"2024-10-23T22:29:08.211Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"110.946\"}","timestamp":"2024-10-23T22:29:58.255Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"100.337\"}","timestamp":"2024-10-23T22:31:13.617Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:31:37.961Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:32:07.276Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"124.378\"}","timestamp":"2024-10-23T22:32:43.044Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"100.815\"}","timestamp":"2024-10-23T22:32:50.401Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"96.205\"}","timestamp":"2024-10-23T22:33:02.393Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"101.362\"}","timestamp":"2024-10-23T22:33:35.929Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:33:59.283Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:34:23.847Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:34:32.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"124.201\"}","timestamp":"2024-10-23T22:35:22.379Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:36:12.356Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:36:54.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:37:04.341Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"124.646\"}","timestamp":"2024-10-23T22:37:11.792Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:37:28.199Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:37:40.706Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"257.482\"}","timestamp":"2024-10-23T22:37:41.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:38:54.963Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"233.735\"}","timestamp":"2024-10-23T22:39:05.881Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:39:33.806Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"261.151\"}","timestamp":"2024-10-23T22:39:36.844Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:40:21.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"500.079\"}","timestamp":"2024-10-23T22:40:23.122Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"416.988\"}","timestamp":"2024-10-23T22:41:11.404Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"403.750\"}","timestamp":"2024-10-23T22:41:20.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"101.856\"}","timestamp":"2024-10-23T22:41:25.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"222.446\"}","timestamp":"2024-10-23T22:41:48.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"404\",\"responseTime\":\"98.970\"}","timestamp":"2024-10-23T22:42:55.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"400\",\"responseTime\":\"2.072\"}","timestamp":"2024-10-23T22:44:46.735Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:45:19.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:45:51.757Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:46:05.784Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"471.603\"}","timestamp":"2024-10-23T22:46:22.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:47:52.792Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:47:57.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:48:10.806Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:48:26.005Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:48:35.125Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"1330.741\"}","timestamp":"2024-10-23T22:48:36.734Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:49:09.151Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"451.916\"}","timestamp":"2024-10-23T22:49:12.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:49:29.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:49:40.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:49:44.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"480.336\"}","timestamp":"2024-10-23T22:49:49.602Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:52:20.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"449.573\"}","timestamp":"2024-10-23T22:52:23.400Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:53:28.825Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:53:35.911Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:54:13.083Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"448.808\"}","timestamp":"2024-10-23T22:54:14.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:54:47.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"996.223\"}","timestamp":"2024-10-23T22:54:48.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:55:05.678Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:55:09.341Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"999.347\"}","timestamp":"2024-10-23T22:55:10.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"216.422\"}","timestamp":"2024-10-23T22:55:16.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"411.555\"}","timestamp":"2024-10-23T22:55:24.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:56:19.027Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:56:23.157Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:56:26.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"465.696\"}","timestamp":"2024-10-23T22:56:28.408Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:56:44.147Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"502.971\"}","timestamp":"2024-10-23T22:56:46.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:58:00.452Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"452.856\"}","timestamp":"2024-10-23T22:58:02.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:58:15.038Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:58:28.435Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:58:35.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:58:48.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T22:59:50.368Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"467.924\"}","timestamp":"2024-10-23T22:59:54.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:01:29.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"466.682\"}","timestamp":"2024-10-23T23:01:35.174Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:01:52.982Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:02:01.543Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"468.404\"}","timestamp":"2024-10-23T23:02:03.552Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:02:17.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"564.375\"}","timestamp":"2024-10-23T23:02:20.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:05:59.040Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"6955.537\"}","timestamp":"2024-10-23T23:06:10.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:07:29.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:07:43.497Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:07:50.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"543.735\"}","timestamp":"2024-10-23T23:08:02.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:08:18.324Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:08:23.411Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"584.587\"}","timestamp":"2024-10-23T23:08:28.110Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:08:39.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:12:37.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"200\",\"responseTime\":\"383.539\"}","timestamp":"2024-10-23T23:13:06.907Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"200\",\"responseTime\":\"326.929\"}","timestamp":"2024-10-23T23:13:59.084Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:16:16.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"160.356\"}","timestamp":"2024-10-23T23:16:20.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:17:23.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:17:38.310Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4225.020\"}","timestamp":"2024-10-23T23:19:41.642Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"510.820\"}","timestamp":"2024-10-23T23:20:11.114Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"213.880\"}","timestamp":"2024-10-23T23:20:18.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"401\",\"responseTime\":\"3.889\"}","timestamp":"2024-10-23T23:20:27.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"401\",\"responseTime\":\"1.016\"}","timestamp":"2024-10-23T23:20:37.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:21:38.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4166.943\"}","timestamp":"2024-10-23T23:21:52.125Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:23:06.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4380.300\"}","timestamp":"2024-10-23T23:23:19.833Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-23T23:24:14.353Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"557.993\"}","timestamp":"2024-10-23T23:27:26.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/change-password\",\"status\":\"500\",\"responseTime\":\"212.059\"}","timestamp":"2024-10-23T23:28:23.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/change-password\",\"status\":\"500\",\"responseTime\":\"204.151\"}","timestamp":"2024-10-23T23:29:00.875Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/change-password\",\"status\":\"200\",\"responseTime\":\"494.617\"}","timestamp":"2024-10-23T23:29:33.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"194.841\"}","timestamp":"2024-10-23T23:30:02.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"499.698\"}","timestamp":"2024-10-23T23:30:08.794Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T00:13:21.435Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/lusers/logout\",\"status\":\"404\",\"responseTime\":\"3.933\"}","timestamp":"2024-10-24T00:13:38.058Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/logout\",\"status\":\"404\",\"responseTime\":\"1.508\"}","timestamp":"2024-10-24T00:13:49.774Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"624.828\"}","timestamp":"2024-10-24T00:15:43.787Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/logout\",\"status\":\"404\",\"responseTime\":\"1.328\"}","timestamp":"2024-10-24T00:15:54.427Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/logout\",\"status\":\"404\",\"responseTime\":\"0.720\"}","timestamp":"2024-10-24T00:15:57.387Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/logout\",\"status\":\"404\",\"responseTime\":\"0.863\"}","timestamp":"2024-10-24T00:16:17.584Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T00:16:41.713Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"270.385\"}","timestamp":"2024-10-24T00:16:50.736Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:45:08.295Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/current-user\",\"status\":\"401\",\"responseTime\":\"30.519\"}","timestamp":"2024-10-24T09:45:46.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"401\",\"responseTime\":\"1.657\"}","timestamp":"2024-10-24T09:46:26.710Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-account\",\"status\":\"401\",\"responseTime\":\"0.659\"}","timestamp":"2024-10-24T09:47:02.291Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/history\",\"status\":\"401\",\"responseTime\":\"0.689\"}","timestamp":"2024-10-24T09:48:46.775Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"606.740\"}","timestamp":"2024-10-24T09:48:57.202Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/current-user\",\"status\":\"200\",\"responseTime\":\"102.617\"}","timestamp":"2024-10-24T09:49:03.007Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"109.430\"}","timestamp":"2024-10-24T09:49:12.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"105.213\"}","timestamp":"2024-10-24T09:50:12.219Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"99.896\"}","timestamp":"2024-10-24T09:50:23.657Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:50:59.558Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"1093.662\"}","timestamp":"2024-10-24T09:51:00.784Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:51:23.629Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"200\",\"responseTime\":\"154.028\"}","timestamp":"2024-10-24T09:51:25.838Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:51:57.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"200\",\"responseTime\":\"1103.227\"}","timestamp":"2024-10-24T09:51:58.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:52:12.356Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:52:22.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"220.947\"}","timestamp":"2024-10-24T09:52:24.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"199.451\"}","timestamp":"2024-10-24T09:52:35.940Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:53:45.751Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"241.311\"}","timestamp":"2024-10-24T09:54:00.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"198.641\"}","timestamp":"2024-10-24T09:54:08.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:54:38.137Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"239.857\"}","timestamp":"2024-10-24T09:54:39.819Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"214.952\"}","timestamp":"2024-10-24T09:54:54.357Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:55:11.553Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"200\",\"responseTime\":\"1041.039\"}","timestamp":"2024-10-24T09:55:12.799Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:55:28.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:55:34.055Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:56:17.760Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:56:22.014Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"246.668\"}","timestamp":"2024-10-24T09:56:25.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"500\",\"responseTime\":\"205.153\"}","timestamp":"2024-10-24T09:56:33.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:56:45.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"1279.003\"}","timestamp":"2024-10-24T09:56:46.961Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:57:27.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"219.316\"}","timestamp":"2024-10-24T09:57:32.009Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:58:20.793Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"275.776\"}","timestamp":"2024-10-24T09:58:29.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"201.067\"}","timestamp":"2024-10-24T09:58:53.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:59:06.499Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T09:59:36.663Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:00:01.919Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:00:17.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"241.144\"}","timestamp":"2024-10-24T10:00:21.096Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:00:34.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"776.811\"}","timestamp":"2024-10-24T10:00:35.816Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy1\",\"status\":\"200\",\"responseTime\":\"215.862\"}","timestamp":"2024-10-24T10:02:54.085Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"200.585\"}","timestamp":"2024-10-24T10:03:26.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:09:06.952Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"404\",\"responseTime\":\"250.727\"}","timestamp":"2024-10-24T10:09:11.653Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel/:username\",\"status\":\"401\",\"responseTime\":\"19272.038\"}","timestamp":"2024-10-24T10:09:38.329Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:12:07.024Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel\",\"status\":\"500\",\"responseTime\":\"132.514\"}","timestamp":"2024-10-24T10:12:13.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:12:25.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel\",\"status\":\"500\",\"responseTime\":\"743.396\"}","timestamp":"2024-10-24T10:12:26.541Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:12:37.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel\",\"status\":\"404\",\"responseTime\":\"1147.391\"}","timestamp":"2024-10-24T10:12:39.058Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:13:38.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel\",\"status\":\"404\",\"responseTime\":\"600.592\"}","timestamp":"2024-10-24T10:13:40.328Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:13:53.842Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/channel\",\"status\":\"200\",\"responseTime\":\"1221.484\"}","timestamp":"2024-10-24T10:13:55.260Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:14:07.039Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:15:12.835Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:15:17.728Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:15:30.195Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy2\",\"status\":\"404\",\"responseTime\":\"234.970\"}","timestamp":"2024-10-24T10:15:43.252Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:16:25.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy1\",\"status\":\"200\",\"responseTime\":\"239.031\"}","timestamp":"2024-10-24T10:18:58.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:19:13.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy1\",\"status\":\"200\",\"responseTime\":\"287.655\"}","timestamp":"2024-10-24T10:19:14.449Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy2\",\"status\":\"404\",\"responseTime\":\"219.910\"}","timestamp":"2024-10-24T10:20:42.399Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/channel/dummy1\",\"status\":\"200\",\"responseTime\":\"210.877\"}","timestamp":"2024-10-24T10:20:45.629Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-account\",\"status\":\"200\",\"responseTime\":\"345.222\"}","timestamp":"2024-10-24T10:22:41.819Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"200\",\"responseTime\":\"2270.261\"}","timestamp":"2024-10-24T10:24:16.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:24:54.300Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"200\",\"responseTime\":\"2391.132\"}","timestamp":"2024-10-24T10:24:59.055Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:25:39.011Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"200\",\"responseTime\":\"2319.454\"}","timestamp":"2024-10-24T10:25:43.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:25:59.773Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:26:08.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"200\",\"responseTime\":\"3232.204\"}","timestamp":"2024-10-24T10:26:11.696Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:26:37.656Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:26:45.229Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"500\",\"responseTime\":\"2146.640\"}","timestamp":"2024-10-24T10:27:09.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:27:24.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:27:34.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-avatar\",\"status\":\"200\",\"responseTime\":\"2220.211\"}","timestamp":"2024-10-24T10:27:41.817Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:28:05.827Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-coverImage\",\"status\":\"400\",\"responseTime\":\"133.106\"}","timestamp":"2024-10-24T10:28:27.013Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-coverImage\",\"status\":\"200\",\"responseTime\":\"2339.352\"}","timestamp":"2024-10-24T10:28:57.840Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/history\",\"status\":\"404\",\"responseTime\":\"101.015\"}","timestamp":"2024-10-24T10:29:19.532Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:29:46.657Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:29:55.304Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/history\",\"status\":\"200\",\"responseTime\":\"225.442\"}","timestamp":"2024-10-24T10:29:56.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:30:21.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:30:27.082Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/history\",\"status\":\"200\",\"responseTime\":\"278.536\"}","timestamp":"2024-10-24T10:30:30.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T10:30:49.078Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"APP is running on PORT 4000","timestamp":"2024-10-24T11:42:59.057Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4725.860\"}","timestamp":"2024-10-24T11:45:31.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"547.671\"}","timestamp":"2024-10-24T11:46:40.020Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"200\",\"responseTime\":\"331.301\"}","timestamp":"2024-10-24T11:47:49.193Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/refresh-token\",\"status\":\"200\",\"responseTime\":\"314.856\"}","timestamp":"2024-10-24T11:48:08.035Z"}
